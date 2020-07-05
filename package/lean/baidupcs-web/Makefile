@@ -60,7 +60,7 @@ ifeq ($(ARCH),aarch64)
 endif
 
 
-PKG_SOURCE:=BaiduPCS-Go-$(PKG_VERSION)-linux-$(PKG_ARCH_BAIDUPCS-WEB).zip
+PKG_SOURCE:=BaiduPCS-Go-v$(PKG_VERSION)-linux-$(PKG_ARCH_BAIDUPCS-WEB).zip
 
 PKG_SOURCE_URL:=https://github.com/coolsnowwolf/baidupcs-web/blob/master/
 
